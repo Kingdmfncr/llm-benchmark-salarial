@@ -75,6 +75,10 @@ Ce projet est open source. Pour l'adapter à votre secteur ou vos critères :
 
 ---
 
+## Playbook
+
+Guide opératoire complet (Définitions/Process/Documentation/Templates) : [`PLAYBOOK.md`](PLAYBOOK.md).
+
 ## Freelance
 
 Je livre ce type d'outil en **2-3 semaines** pour votre contexte spécifique :
